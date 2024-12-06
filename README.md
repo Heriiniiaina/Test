@@ -1,4 +1,4 @@
-# TodoApp project whith  React Native, Expo, and TypeScript
+# TodoApp project with  React Native, Expo, and TypeScript
 
 ## Project Overview
 
